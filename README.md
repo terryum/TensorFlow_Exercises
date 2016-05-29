@@ -11,11 +11,12 @@ I didn't create these codes by myself, but re-create the codes while I was pract
 
 ### List of the exercise codes
 
-1. [Linear Regression]() 
-2. [Logistic Regression]()
-3. [Multilayer Perceptron]()
-4. [Modern Multilayer Perceptron]()
-5. [Convolutional Neural Network]()
+1. [Linear Regression](https://github.com/terryum/TensorFlow_Exercises/blob/master/1_LinearRegression_160516.ipynb) 
+2. [Logistic Regression](https://github.com/terryum/TensorFlow_Exercises/blob/master/2_LogisticRegression_MNIST_160516.ipynb)
+3. [Multilayer Perceptron](https://github.com/terryum/TensorFlow_Exercises/blob/master/3a_MLP_MNIST_160516.ipynb)
+4. [Modern Multilayer Perceptron](https://github.com/terryum/TensorFlow_Exercises/blob/master/3b_MLP_MNIST_Modern_160517.ipynb)
+5. [Convolutional Neural Network](https://github.com/terryum/TensorFlow_Exercises/blob/master/4a_CNN_MNIST_160517.ipynb)
+(More exercises will be updating...)
 
 ### Slides
 
