@@ -20,6 +20,7 @@ I didn't create these codes by myself, but re-create the codes while I was pract
 ### Slides
 
 You can follow the above examples with the [slides](). 
+
 한국 분은 한국어 해설이 있는 [유투브 영상]()을 참고하세요.
 
 Feel free to make changes for your own project. And please let me know if you have a suggestion to improve the codes. Thank you!
