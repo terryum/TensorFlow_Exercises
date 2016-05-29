@@ -21,7 +21,7 @@ I didn't create these codes by myself, but re-create the codes while I was pract
 
 ### Slides
 
-You can follow the above examples with the [slides](). 
+You can follow the above examples with the [slides](http://www.slideshare.net/TerryTaewoongUm/introduction-to-deep-learning-with-tensorflow). 
 
 한국 분은 한국어 해설이 있는 [유투브 영상]()을 참고하세요.
 
