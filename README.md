@@ -21,6 +21,6 @@ I didn't create these codes by myself, but re-create the codes while I was pract
 
 ### Slides
 
-You can follow the above examples with the [slides](http://www.slideshare.net/TerryTaewoongUm/introduction-to-deep-learning-with-tensorflow). 
+You can follow the above examples with the [slides](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/). 
 
 Feel free to make changes for your own project. And please let me know if you have a suggestion to improve the codes. Thank you!
