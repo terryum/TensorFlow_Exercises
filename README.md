@@ -15,7 +15,8 @@ I didn't create these codes by myself, but re-create the codes while I was pract
 2. [Logistic Regression](https://github.com/terryum/TensorFlow_Exercises/blob/master/2_LogisticRegression_MNIST_160516.ipynb)
 3. [Multilayer Perceptron](https://github.com/terryum/TensorFlow_Exercises/blob/master/3a_MLP_MNIST_160516.ipynb)
 4. [Modern Multilayer Perceptron](https://github.com/terryum/TensorFlow_Exercises/blob/master/3b_MLP_MNIST_Modern_160517.ipynb)
-5. [Convolutional Neural Network](https://github.com/terryum/TensorFlow_Exercises/blob/master/4a_CNN_MNIST_160517.ipynb)
+5. [Multilayer Perceptron: Top-N results](https://github.com/terryum/TensorFlow_Exercises/blob/master/3c_MLP_MNIST_topNresults_160712.ipynb)
+6. [Convolutional Neural Network](https://github.com/terryum/TensorFlow_Exercises/blob/master/4a_CNN_MNIST_160712.ipynb)
 
 (More exercises will be updating...)
 
